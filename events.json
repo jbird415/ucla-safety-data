@@ -472,31 +472,6 @@
    "title": "Battery"
   },
   {
-   "case_id": null,
-   "category": "violent",
-   "charges": [
-    "SPOUSAL OR COHABITANT ABUSE"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026062762",
-   "occurred_from": "2026-11-03T13:18:02-08:00",
-   "occurred_to": "2026-11-03T13:18:02-08:00",
-   "place": {
-    "address": "500-BLOCK LANDFAIR AVE",
-    "kind": "block",
-    "lat": 34.067967973874,
-    "lon": -118.450354561496,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-11-03T13:18:02-08:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": "26-2136",
    "category": "theft",
    "charges": [
@@ -913,6 +888,27 @@
    "disposition_date": null,
    "hidden_default": false,
    "id": "s5a1184e969a812",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-11-03T00:00:00-08:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "s35e4579b1849c6",
    "occurred_from": null,
    "occurred_to": null,
    "place": {
@@ -2608,31 +2604,6 @@
    "title": "Weapon displayed"
   },
   {
-   "case_id": null,
-   "category": "violent",
-   "charges": [
-    "SPOUSAL OR COHABITANT ABUSE"
-   ],
-   "disposition": "UNABLE TO LOCATE",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026062000",
-   "occurred_from": "2026-10-31T09:43:08-07:00",
-   "occurred_to": "2026-10-31T09:43:08-07:00",
-   "place": {
-    "address": "200-BLOCK DE NEVE DR",
-    "kind": "block",
-    "lat": 34.07518365529,
-    "lon": -118.453543774818,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-10-31T09:43:08-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": "26-2107",
    "category": "theft",
    "charges": [
@@ -2706,31 +2677,6 @@
    "sensitive": false,
    "status": "closed",
    "title": "Unauthorized people"
-  },
-  {
-   "case_id": null,
-   "category": "violent",
-   "charges": [
-    "SPOUSAL OR COHABITANT ABUSE"
-   ],
-   "disposition": "FIELD INTERVIEWED",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026061979",
-   "occurred_from": "2026-10-31T06:33:50-07:00",
-   "occurred_to": "2026-10-31T06:33:50-07:00",
-   "place": {
-    "address": "400-BLOCK KELTON AVE",
-    "kind": "block",
-    "lat": 34.069325720473,
-    "lon": -118.453694180529,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-10-31T06:33:50-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
   },
   {
    "case_id": "26-2105",
@@ -3005,12 +2951,54 @@
   },
   {
    "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "UNABLE TO LOCATE",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "s3f601ea16518d3",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-31T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
    "category": "mental_medical",
    "charges": [],
    "disposition": "INFORMATION ONLY",
    "disposition_date": null,
    "hidden_default": false,
    "id": "s1e2df66c92b4a3",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-31T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "FIELD INTERVIEWED",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "s4143fdb77b714c",
    "occurred_from": null,
    "occurred_to": null,
    "place": {
@@ -4993,31 +4981,6 @@
    "title": "Assault"
   },
   {
-   "case_id": "26-2067",
-   "category": "violent",
-   "charges": [
-    "DOMESTIC VIOLENCE INCIDENT REPORT (NON-CRIMINAL)"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": "2026-11-02",
-   "hidden_default": false,
-   "id": "2026061317",
-   "occurred_from": "2026-10-28T07:42:00-07:00",
-   "occurred_to": "2026-10-28T07:42:00-07:00",
-   "place": {
-    "address": "947 TIVERTON AVE",
-    "kind": "building",
-    "lat": 34.062630519228,
-    "lon": -118.442769114611,
-    "name": "VINTAGE WESTWOOD HORIZONS",
-    "radius_m": 0
-   },
-   "reported_at": "2026-10-28T07:42:26-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": null,
    "category": "suspicious",
    "charges": [
@@ -5196,6 +5159,27 @@
    "disposition_date": null,
    "hidden_default": false,
    "id": "s9b557663967810",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-28T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": "2026-11-02",
+   "hidden_default": false,
+   "id": "s478c1cb5038192",
    "occurred_from": null,
    "occurred_to": null,
    "place": {
@@ -5966,31 +5950,6 @@
    "title": "Disturbance"
   },
   {
-   "case_id": "26-2049",
-   "category": "violent",
-   "charges": [
-    "ELDER/DEPENDENT ADULT: CRUELTY"
-   ],
-   "disposition": "OPEN CASE",
-   "disposition_date": "2026-10-28",
-   "hidden_default": false,
-   "id": "2026060984",
-   "occurred_from": "2026-10-23T19:00:00-07:00",
-   "occurred_to": "2026-10-25T03:00:00-07:00",
-   "place": {
-    "address": "1200-BLOCK 16TH ST",
-    "kind": "block",
-    "lat": 34.027579308024,
-    "lon": -118.486185163843,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-10-26T17:29:25-07:00",
-   "sensitive": false,
-   "status": "open",
-   "title": "Abuse report"
-  },
-  {
    "case_id": "26-2046",
    "category": "vehicle",
    "charges": [
@@ -6485,6 +6444,27 @@
    "reported_at": "2026-10-26T00:00:00-07:00",
    "sensitive": true,
    "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-10-28",
+   "hidden_default": false,
+   "id": "s4d47e172850dbd",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-26T00:00:00-07:00",
+   "sensitive": true,
+   "status": "open",
    "title": "Sensitive report"
   },
   {
@@ -9044,31 +9024,6 @@
    "title": "Stop"
   },
   {
-   "case_id": "26-1995",
-   "category": "violent",
-   "charges": [
-    "DOMESTIC VIOLENCE INCIDENT REPORT (NON-CRIMINAL)"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": "2026-10-22",
-   "hidden_default": false,
-   "id": "2026059841",
-   "occurred_from": "2026-10-21T09:02:00-07:00",
-   "occurred_to": "2026-10-21T09:30:00-07:00",
-   "place": {
-    "address": "3232 SAWTELLE BLVD",
-    "kind": "building",
-    "lat": 34.020912731624,
-    "lon": -118.427120887596,
-    "name": "SAWTELLE APARTMENTS",
-    "radius_m": 0
-   },
-   "reported_at": "2026-10-21T09:02:34-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": null,
    "category": "suspicious",
    "charges": [
@@ -9197,6 +9152,27 @@
    "disposition_date": null,
    "hidden_default": false,
    "id": "s8b2825a9739a0e",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-21T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": "2026-10-22",
+   "hidden_default": false,
+   "id": "sdf7f6ba3e9d4f1",
    "occurred_from": null,
    "occurred_to": null,
    "place": {
@@ -10979,56 +10955,6 @@
    "title": "Theft"
   },
   {
-   "case_id": "26-1959",
-   "category": "violent",
-   "charges": [
-    "DOMESTIC VIOLENCE INCIDENT REPORT (NON-CRIMINAL)"
-   ],
-   "disposition": "COURTESY REPORT",
-   "disposition_date": "2026-10-19",
-   "hidden_default": false,
-   "id": "2026059057",
-   "occurred_from": "2026-10-17T15:03:00-07:00",
-   "occurred_to": "2026-10-17T15:03:00-07:00",
-   "place": {
-    "address": "1200-BLOCK 16TH ST",
-    "kind": "block",
-    "lat": 34.027579308024,
-    "lon": -118.486185163843,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-10-17T18:26:57-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
-   "case_id": "26-1958",
-   "category": "violent",
-   "charges": [
-    "DOMESTIC VIOLENCE INCIDENT REPORT (NON-CRIMINAL)"
-   ],
-   "disposition": "OPEN CASE",
-   "disposition_date": "2026-10-19",
-   "hidden_default": false,
-   "id": "2026059036",
-   "occurred_from": "2026-10-17T10:00:00-07:00",
-   "occurred_to": "2026-10-17T16:00:00-07:00",
-   "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-10-17T16:30:21-07:00",
-   "sensitive": false,
-   "status": "open",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": null,
    "category": "admin",
    "charges": [
@@ -11127,6 +11053,48 @@
    "sensitive": false,
    "status": "closed",
    "title": "Burglary"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "COURTESY REPORT",
+   "disposition_date": "2026-10-19",
+   "hidden_default": false,
+   "id": "sa1318fa9ff13a9",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-17T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-10-19",
+   "hidden_default": false,
+   "id": "s2802a767dbd9d7",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-17T00:00:00-07:00",
+   "sensitive": true,
+   "status": "open",
+   "title": "Sensitive report"
   },
   {
    "case_id": null,
@@ -18058,31 +18026,6 @@
    "title": "Hate incident"
   },
   {
-   "case_id": "26-1861",
-   "category": "violent",
-   "charges": [
-    "DOMESTIC VIOLENCE INCIDENT REPORT (NON-CRIMINAL)"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": "2026-10-06",
-   "hidden_default": false,
-   "id": "2026056066",
-   "occurred_from": "2026-10-05T22:19:00-07:00",
-   "occurred_to": "2026-10-05T22:53:00-07:00",
-   "place": {
-    "address": "400-BLOCK KELTON AVE",
-    "kind": "block",
-    "lat": 34.069325720473,
-    "lon": -118.453694180529,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-10-05T22:19:49-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": null,
    "category": "suspicious",
    "charges": [
@@ -18511,6 +18454,27 @@
    "sensitive": false,
    "status": "unknown",
    "title": "Fire alarm"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": "2026-10-06",
+   "hidden_default": false,
+   "id": "sceab6fd5813837",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-10-05T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
   },
   {
    "case_id": "26-1854",
@@ -24364,31 +24328,6 @@
    "title": "Hit and run"
   },
   {
-   "case_id": "26-1783",
-   "category": "violent",
-   "charges": [
-    "DOMESTIC VIOLENCE INCIDENT REPORT (NON-CRIMINAL)"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": "2026-09-24",
-   "hidden_default": false,
-   "id": "2026053100",
-   "occurred_from": "2026-09-23T19:08:00-07:00",
-   "occurred_to": "2026-09-23T19:38:00-07:00",
-   "place": {
-    "address": "500-BLOCK GLENROCK AVE",
-    "kind": "block",
-    "lat": 34.06687481414,
-    "lon": -118.450918244496,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-09-23T19:38:10-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": "26-1781",
    "category": "vehicle",
    "charges": [
@@ -24712,6 +24651,27 @@
    "sensitive": false,
    "status": "closed",
    "title": "Battery"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": "2026-09-24",
+   "hidden_default": false,
+   "id": "s111bb7500dd815",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-09-23T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
   },
   {
    "case_id": null,
@@ -25249,31 +25209,6 @@
   },
   {
    "case_id": null,
-   "category": "violent",
-   "charges": [
-    "CHILD OR ELDER ABUSE REPORT"
-   ],
-   "disposition": "REFERRED TO OUTSIDE AGENCY",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026052762",
-   "occurred_from": "2026-09-22T09:38:19-07:00",
-   "occurred_to": "2026-09-22T09:38:19-07:00",
-   "place": {
-    "address": "1200-BLOCK 16TH ST",
-    "kind": "block",
-    "lat": 34.027579308024,
-    "lon": -118.486185163843,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-09-22T09:38:19-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Abuse report"
-  },
-  {
-   "case_id": null,
    "category": "alarm_fire",
    "charges": [
     "FIRE ALARM"
@@ -25351,6 +25286,27 @@
    "disposition_date": null,
    "hidden_default": false,
    "id": "sb6d479bc1e0a11",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-09-22T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "REFERRED TO OUTSIDE AGENCY",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "s3d425b616bf39a",
    "occurred_from": null,
    "occurred_to": null,
    "place": {
@@ -29071,31 +29027,6 @@
    "title": "Sensitive report"
   },
   {
-   "case_id": "26-1714",
-   "category": "violent",
-   "charges": [
-    "DOMESTIC VIOLENCE INCIDENT REPORT (NON-CRIMINAL)"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": "2026-09-14",
-   "hidden_default": false,
-   "id": "2026050884",
-   "occurred_from": "2026-09-13T23:32:00-07:00",
-   "occurred_to": "2026-09-13T23:32:00-07:00",
-   "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-13T23:32:55-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Domestic incident"
-  },
-  {
    "case_id": "26-1713",
    "category": "suspicious",
    "charges": [
@@ -29394,6 +29325,27 @@
    "sensitive": false,
    "status": "closed",
    "title": "Suspect in custody"
+  },
+  {
+   "case_id": null,
+   "category": "sexual",
+   "charges": [],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": "2026-09-14",
+   "hidden_default": false,
+   "id": "sa8c70f4080cee8",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-09-13T00:00:00-07:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
   },
   {
    "case_id": null,
@@ -33193,10 +33145,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-08T13:20:03-08:00",
+ "generated_at": "2026-11-09T21:31:14-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-08T21:20:02.489096+00:00",
+  "fetched_at": "2026-11-10T05:31:12.919451+00:00",
   "log_first_day": "2026-09-05",
   "log_last_day": "2026-11-04",
   "name": "UCLA PD Daily Crime and Fire Log",
