@@ -1029,8 +1029,8 @@
    "place": {
     "address": "2800-BLOCK WILSHIRE BLVD",
     "kind": "block",
-    "lat": 34.0602852,
-    "lon": -118.4382396,
+    "lat": 34.0443496,
+    "lon": -118.4671754,
     "name": null,
     "radius_m": 80
    },
@@ -1807,8 +1807,8 @@
    "place": {
     "address": "611 CHARLES E YOUNG DR E",
     "kind": "building",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": "BOYER HALL",
     "radius_m": 0
    },
@@ -33978,10 +33978,10 @@
    "title": "Trespass"
   }
  ],
- "generated_at": "2026-11-11T20:02:53-08:00",
+ "generated_at": "2026-11-12T14:51:33-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-12T04:02:14.606458+00:00",
+  "fetched_at": "2026-11-12T22:50:56.201007+00:00",
   "log_first_day": "2026-09-12",
   "log_last_day": "2026-11-11",
   "name": "UCLA PD Daily Crime and Fire Log",
