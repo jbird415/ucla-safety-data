@@ -4,6 +4,557 @@
    "case_id": null,
    "category": "alarm_fire",
    "charges": [
+    "ROBBERY ALARM"
+   ],
+   "disposition": "CANCELLED BY REPORTING PARTY",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064686",
+   "occurred_from": "2026-11-12T11:19:45-08:00",
+   "occurred_to": "2026-11-12T11:19:45-08:00",
+   "place": {
+    "address": "1200-BLOCK 16TH ST",
+    "kind": "block",
+    "lat": 34.027579308024,
+    "lon": -118.486185163843,
+    "name": null,
+    "radius_m": 80
+   },
+   "reported_at": "2026-11-12T11:19:45-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Robbery alarm"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
+    "BURGLARY ALARM"
+   ],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064684",
+   "occurred_from": "2026-11-12T11:09:25-08:00",
+   "occurred_to": "2026-11-12T11:09:25-08:00",
+   "place": {
+    "address": null,
+    "kind": "none",
+    "lat": null,
+    "lon": null,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T11:09:25-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Burglar alarm"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
+    "FIRE ALARM"
+   ],
+   "disposition": "REPORT TAKEN",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064666",
+   "occurred_from": "2026-11-12T09:38:36-08:00",
+   "occurred_to": "2026-11-12T09:38:36-08:00",
+   "place": {
+    "address": "240 DE NEVE DR",
+    "kind": "building",
+    "lat": 34.075608237417,
+    "lon": -118.453605538619,
+    "name": "HEDRICK SUMMIT",
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T09:38:36-08:00",
+   "sensitive": false,
+   "status": "unknown",
+   "title": "Fire alarm"
+  },
+  {
+   "case_id": null,
+   "category": "weapons",
+   "charges": [
+    "BRANDISHING A WEAPON"
+   ],
+   "disposition": "UNABLE TO LOCATE",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064662",
+   "occurred_from": "2026-11-12T09:19:10-08:00",
+   "occurred_to": "2026-11-12T09:19:10-08:00",
+   "place": {
+    "address": "330 DE NEVE DR",
+    "kind": "address",
+    "lat": 34.071958965214,
+    "lon": -118.452545515931,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T09:19:10-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Weapon displayed"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
+    "FIRE ALARM DRILL"
+   ],
+   "disposition": "INFORMATION ONLY",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064660",
+   "occurred_from": "2026-11-12T09:01:14-08:00",
+   "occurred_to": "2026-11-12T09:01:14-08:00",
+   "place": {
+    "address": "757 WESTWOOD PZ",
+    "kind": "building",
+    "lat": 34.065912663582,
+    "lon": -118.445274621639,
+    "name": "RONALD REAGAN UCLA MEDICAL CENTER",
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T09:01:14-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Fire alarm drill"
+  },
+  {
+   "case_id": null,
+   "category": "suspicious",
+   "charges": [
+    "UNAUTHORIZED SUBJECTS"
+   ],
+   "disposition": "WARNED OR ADVISED",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064649",
+   "occurred_from": "2026-11-12T08:12:21-08:00",
+   "occurred_to": "2026-11-12T08:12:21-08:00",
+   "place": {
+    "address": "905 VENICE BLVD",
+    "kind": "address",
+    "lat": 34.0150448,
+    "lon": -118.413321,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T08:12:21-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Unauthorized people"
+  },
+  {
+   "case_id": null,
+   "category": "suspicious",
+   "charges": [
+    "UNAUTHORIZED SUBJECTS"
+   ],
+   "disposition": "WARNED OR ADVISED",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064640",
+   "occurred_from": "2026-11-12T07:55:05-08:00",
+   "occurred_to": "2026-11-12T07:55:05-08:00",
+   "place": {
+    "address": "HILGARD AVE/LE CONTE AVE",
+    "kind": "address",
+    "lat": 34.0642017,
+    "lon": -118.441412,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T07:55:05-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Unauthorized people"
+  },
+  {
+   "case_id": null,
+   "category": "admin",
+   "charges": [
+    "INVESTIGATION"
+   ],
+   "disposition": "DETAIL HANDLED: NO REPORT",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064636",
+   "occurred_from": "2026-11-12T07:35:12-08:00",
+   "occurred_to": "2026-11-12T07:35:12-08:00",
+   "place": {
+    "address": "601 WESTWOOD PZ",
+    "kind": "address",
+    "lat": 34.06788777535,
+    "lon": -118.445084717395,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T07:35:12-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Investigation"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
+    "FIRE DETAIL"
+   ],
+   "disposition": "DETAIL HANDLED: NO REPORT",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064631",
+   "occurred_from": "2026-11-12T06:55:31-08:00",
+   "occurred_to": "2026-11-12T06:55:31-08:00",
+   "place": {
+    "address": "1060 VETERAN AVE",
+    "kind": "building",
+    "lat": 34.060510383172,
+    "lon": -118.449833259936,
+    "name": "CAPITAL PROGRAMS BUILDING",
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T06:55:31-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Fire department detail"
+  },
+  {
+   "case_id": null,
+   "category": "suspicious",
+   "charges": [
+    "UNAUTHORIZED SUBJECTS"
+   ],
+   "disposition": "CANCELLED BY WATCH COMMANDER",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064629",
+   "occurred_from": "2026-11-12T06:15:40-08:00",
+   "occurred_to": "2026-11-12T06:15:40-08:00",
+   "place": {
+    "address": "351 CHARLES E YOUNG DR W",
+    "kind": "address",
+    "lat": 34.072975098267,
+    "lon": -118.439705519515,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T06:15:40-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Unauthorized people"
+  },
+  {
+   "case_id": "26-2220",
+   "category": "other",
+   "charges": [
+    "WARRANT ARREST"
+   ],
+   "disposition": "REFERRED TO OUTSIDE AGENCY",
+   "disposition_date": "2026-11-12",
+   "hidden_default": false,
+   "id": "2026064618",
+   "occurred_from": "2026-11-12T03:06:00-08:00",
+   "occurred_to": "2026-11-12T03:06:00-08:00",
+   "place": {
+    "address": "602 CHARLES E YOUNG DR EAST",
+    "kind": "building",
+    "lat": 34.0695409,
+    "lon": -118.4402402,
+    "name": "PARKING STRUCTURE 2",
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-12T03:06:36-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Warrant arrest"
+  },
+  {
+   "case_id": null,
+   "category": "admin",
+   "charges": [
+    "MISC PC CODE VIOLATION"
+   ],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064598",
+   "occurred_from": "2026-11-11T23:18:38-08:00",
+   "occurred_to": "2026-11-11T23:18:38-08:00",
+   "place": {
+    "address": "601 WESTWOOD PZ",
+    "kind": "address",
+    "lat": 34.06788777535,
+    "lon": -118.445084717395,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T23:18:38-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Miscellaneous report"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
+    "FIRE ALARM"
+   ],
+   "disposition": "REFERRED TO OUTSIDE AGENCY",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064591",
+   "occurred_from": "2026-11-11T22:37:52-08:00",
+   "occurred_to": "2026-11-11T22:37:52-08:00",
+   "place": {
+    "address": "700-BLOCK TIVERTON AVE",
+    "kind": "block",
+    "lat": 34.0610427,
+    "lon": -118.4431012,
+    "name": null,
+    "radius_m": 80
+   },
+   "reported_at": "2026-11-11T22:37:52-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Fire alarm"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
+    "FIRE ALARM"
+   ],
+   "disposition": "REPORT TAKEN",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064590",
+   "occurred_from": "2026-11-11T22:35:52-08:00",
+   "occurred_to": "2026-11-11T22:35:52-08:00",
+   "place": {
+    "address": "714 TIVERTON AVE",
+    "kind": "building",
+    "lat": 34.0610427,
+    "lon": -118.4431012,
+    "name": "SCHOOL OF DENTISTRY",
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T22:35:52-08:00",
+   "sensitive": false,
+   "status": "unknown",
+   "title": "Fire alarm"
+  },
+  {
+   "case_id": null,
+   "category": "suspicious",
+   "charges": [
+    "SUSPICIOUS CIRCUMSTANCES"
+   ],
+   "disposition": "FIELD INTERVIEWED",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064548",
+   "occurred_from": "2026-11-11T19:15:29-08:00",
+   "occurred_to": "2026-11-11T19:15:29-08:00",
+   "place": {
+    "address": "612 CHARLES E YOUNG DR E",
+    "kind": "address",
+    "lat": 34.0683922,
+    "lon": -118.4403219,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T19:15:29-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Suspicious activity"
+  },
+  {
+   "case_id": "26-2218",
+   "category": "admin",
+   "charges": [
+    "INVESTIGATION"
+   ],
+   "disposition": "COURTESY REPORT",
+   "disposition_date": "2026-11-12",
+   "hidden_default": true,
+   "id": "2026064544",
+   "occurred_from": "2026-11-11T13:31:00-08:00",
+   "occurred_to": "2026-11-11T13:31:00-08:00",
+   "place": {
+    "address": null,
+    "kind": "none",
+    "lat": null,
+    "lon": null,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T18:51:56-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Investigation"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
+    "BURGLARY ALARM"
+   ],
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064542",
+   "occurred_from": "2026-11-11T17:59:28-08:00",
+   "occurred_to": "2026-11-11T17:59:28-08:00",
+   "place": {
+    "address": "1000-BLOCK VETERAN AVE",
+    "kind": "block",
+    "lat": 34.06065099584,
+    "lon": -118.449944257279,
+    "name": null,
+    "radius_m": 80
+   },
+   "reported_at": "2026-11-11T17:59:28-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Burglar alarm"
+  },
+  {
+   "case_id": null,
+   "category": "theft",
+   "charges": [
+    "PETTY THEFT REPORT"
+   ],
+   "disposition": "DETAIL HANDLED: NO REPORT",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064541",
+   "occurred_from": "2026-11-11T17:16:10-08:00",
+   "occurred_to": "2026-11-11T17:16:10-08:00",
+   "place": {
+    "address": null,
+    "kind": "none",
+    "lat": null,
+    "lon": null,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T17:16:10-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Theft"
+  },
+  {
+   "case_id": null,
+   "category": "suspicious",
+   "charges": [
+    "SUBJECT REFUSING TO LEAVE"
+   ],
+   "disposition": "UNABLE TO LOCATE",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064538",
+   "occurred_from": "2026-11-11T17:03:12-08:00",
+   "occurred_to": "2026-11-11T17:03:12-08:00",
+   "place": {
+    "address": "308 WESTWOOD PZ",
+    "kind": "address",
+    "lat": 34.073763709947,
+    "lon": -118.445122485249,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T17:03:12-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Refusing to leave"
+  },
+  {
+   "case_id": null,
+   "category": "vehicle",
+   "charges": [
+    "GRAND THEFT AUTO"
+   ],
+   "disposition": "REFERRED TO OUTSIDE AGENCY",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064531",
+   "occurred_from": "2026-11-11T14:55:53-08:00",
+   "occurred_to": "2026-11-11T14:55:53-08:00",
+   "place": {
+    "address": "10915 STRATHMORE DR",
+    "kind": "address",
+    "lat": 34.068113092677,
+    "lon": -118.449374700934,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T14:55:53-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Vehicle theft"
+  },
+  {
+   "case_id": null,
+   "category": "suspicious",
+   "charges": [
+    "SUBJECT REFUSING TO LEAVE"
+   ],
+   "disposition": "UNABLE TO LOCATE",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "2026064530",
+   "occurred_from": "2026-11-11T14:49:01-08:00",
+   "occurred_to": "2026-11-11T14:49:01-08:00",
+   "place": {
+    "address": "757 WESTWOOD PZ",
+    "kind": "address",
+    "lat": 34.065912663582,
+    "lon": -118.445274621639,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T14:49:01-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Refusing to leave"
+  },
+  {
+   "case_id": "26-2217",
+   "category": "violent",
+   "charges": [
+    "BATTERY ON PEACE OFFICER/EMERGENCY PERSONNEL/ETC",
+    "DISORDERLY CONDUCT:ALCOHOL"
+   ],
+   "disposition": "CLOSED: SUBJECT ARRESTED",
+   "disposition_date": "2026-11-12",
+   "hidden_default": false,
+   "id": "2026064524",
+   "occurred_from": "2026-11-11T13:03:00-08:00",
+   "occurred_to": "2026-11-11T13:03:00-08:00",
+   "place": {
+    "address": null,
+    "kind": "none",
+    "lat": null,
+    "lon": null,
+    "name": null,
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T13:03:33-08:00",
+   "sensitive": false,
+   "status": "closed",
+   "title": "Battery"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
     "BURGLARY ALARM"
    ],
    "disposition": "NON-CRIMINAL MATTER",
@@ -54,6 +605,31 @@
    "case_id": null,
    "category": "alarm_fire",
    "charges": [
+    "SMELL OF GAS"
+   ],
+   "disposition": "REPORT TAKEN",
+   "disposition_date": null,
+   "hidden_default": true,
+   "id": "2026064499",
+   "occurred_from": "2026-11-11T08:24:58-08:00",
+   "occurred_to": "2026-11-11T08:24:58-08:00",
+   "place": {
+    "address": "111 DE NEVE DR",
+    "kind": "building",
+    "lat": 34.0754776,
+    "lon": -118.4507906,
+    "name": "SUNSET CANYON RECREATION CENTER",
+    "radius_m": 0
+   },
+   "reported_at": "2026-11-11T08:24:58-08:00",
+   "sensitive": false,
+   "status": "unknown",
+   "title": "Gas smell reported"
+  },
+  {
+   "case_id": null,
+   "category": "alarm_fire",
+   "charges": [
     "BURGLARY ALARM"
    ],
    "disposition": "NON-CRIMINAL MATTER",
@@ -79,20 +655,20 @@
    "case_id": "26-2216",
    "category": "violent",
    "charges": [
-    "BATTERY REPORT"
+    "BATTERY ON PEACE OFFICER/EMERGENCY PERSONNEL/ETC"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026064495",
-   "occurred_from": "2026-11-11T07:29:47-08:00",
-   "occurred_to": "2026-11-11T07:29:47-08:00",
+   "occurred_from": "2026-11-05T10:39:00-08:00",
+   "occurred_to": "2026-11-05T10:40:00-08:00",
    "place": {
-    "address": "757 WESTWOOD PZ",
-    "kind": "building",
-    "lat": 34.065912663582,
-    "lon": -118.445274621639,
-    "name": "RONALD REAGAN UCLA MEDICAL CENTER",
+    "address": null,
+    "kind": "none",
+    "lat": null,
+    "lon": null,
+    "name": null,
     "radius_m": 0
    },
    "reported_at": "2026-11-11T07:29:47-08:00",
@@ -102,28 +678,28 @@
   },
   {
    "case_id": "26-2215",
-   "category": "suspicious",
+   "category": "admin",
    "charges": [
-    "SUSPICIOUS CIRCUMSTANCES"
+    "INVESTIGATION"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
-   "hidden_default": false,
+   "disposition": "NON-CRIMINAL MATTER",
+   "disposition_date": "2026-11-12",
+   "hidden_default": true,
    "id": "2026064494",
-   "occurred_from": "2026-11-11T07:13:54-08:00",
-   "occurred_to": "2026-11-11T07:13:54-08:00",
+   "occurred_from": "2026-11-10T19:00:00-08:00",
+   "occurred_to": "2026-11-10T20:00:00-08:00",
    "place": {
-    "address": "GAYLEY AVE/LE CONTE AVE",
-    "kind": "address",
-    "lat": 34.0637318,
-    "lon": -118.44802,
+    "address": null,
+    "kind": "none",
+    "lat": null,
+    "lon": null,
     "name": null,
     "radius_m": 0
    },
    "reported_at": "2026-11-11T07:13:54-08:00",
    "sensitive": false,
-   "status": "open",
-   "title": "Suspicious activity"
+   "status": "closed",
+   "title": "Investigation"
   },
   {
    "case_id": null,
@@ -149,6 +725,27 @@
    "sensitive": false,
    "status": "closed",
    "title": "Suspicious activity"
+  },
+  {
+   "case_id": null,
+   "category": "mental_medical",
+   "charges": [],
+   "disposition": "REFERRED TO OUTSIDE AGENCY",
+   "disposition_date": null,
+   "hidden_default": false,
+   "id": "sec62f187081174",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-11-11T00:00:00-08:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
   },
   {
    "case_id": null,
@@ -201,31 +798,6 @@
    "title": "Threats"
   },
   {
-   "case_id": "26-2214",
-   "category": "weapons",
-   "charges": [
-    "BRANDISHING A WEAPON"
-   ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026064450",
-   "occurred_from": "2026-11-10T21:44:52-08:00",
-   "occurred_to": "2026-11-10T21:44:52-08:00",
-   "place": {
-    "address": "GAYLEY AVE/LE CONTE AVE",
-    "kind": "address",
-    "lat": 34.0637318,
-    "lon": -118.44802,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-11-10T21:44:52-08:00",
-   "sensitive": false,
-   "status": "open",
-   "title": "Weapon displayed"
-  },
-  {
    "case_id": null,
    "category": "suspicious",
    "charges": [
@@ -252,28 +824,28 @@
   },
   {
    "case_id": "26-2213",
-   "category": "suspicious",
+   "category": "other",
    "charges": [
-    "SUSPICIOUS CIRCUMSTANCES"
+    "WARRANT ARREST"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
+   "disposition": "REFERRED TO OUTSIDE AGENCY",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026064438",
-   "occurred_from": "2026-11-10T20:15:36-08:00",
-   "occurred_to": "2026-11-10T20:15:36-08:00",
+   "occurred_from": "2026-11-10T20:15:00-08:00",
+   "occurred_to": "2026-11-10T20:20:00-08:00",
    "place": {
-    "address": "GAYLEY AVE/LE CONTE AVE",
+    "address": "10995 LE CONTE AVE",
     "kind": "address",
-    "lat": 34.0637318,
-    "lon": -118.44802,
+    "lat": 34.063695392228,
+    "lon": -118.448293243025,
     "name": null,
     "radius_m": 0
    },
    "reported_at": "2026-11-10T20:15:36-08:00",
    "sensitive": false,
-   "status": "open",
-   "title": "Suspicious activity"
+   "status": "closed",
+   "title": "Warrant arrest"
   },
   {
    "case_id": null,
@@ -304,14 +876,14 @@
    "case_id": "26-2211",
    "category": "theft",
    "charges": [
-    "PETTY THEFT REPORT"
+    "PETTY THEFT - FROM BUILDINGS"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026064409",
-   "occurred_from": "2026-11-10T16:41:06-08:00",
-   "occurred_to": "2026-11-10T16:41:06-08:00",
+   "occurred_from": "2026-11-10T12:30:00-08:00",
+   "occurred_to": "2026-11-10T12:30:00-08:00",
    "place": {
     "address": null,
     "kind": "none",
@@ -406,8 +978,8 @@
    "charges": [
     "PETTY THEFT - FROM BUILDINGS"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": "2026-11-10",
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026064397",
    "occurred_from": "2026-11-04T12:00:00-08:00",
@@ -424,31 +996,6 @@
    "sensitive": false,
    "status": "open",
    "title": "Theft"
-  },
-  {
-   "case_id": "26-2209",
-   "category": "admin",
-   "charges": [
-    "MISC PC CODE VIOLATION"
-   ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
-   "hidden_default": true,
-   "id": "2026064394",
-   "occurred_from": "2026-11-10T15:49:23-08:00",
-   "occurred_to": "2026-11-10T15:49:23-08:00",
-   "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-11-10T15:49:23-08:00",
-   "sensitive": false,
-   "status": "open",
-   "title": "Miscellaneous report"
   },
   {
    "case_id": null,
@@ -504,14 +1051,14 @@
    "case_id": "26-2206",
    "category": "vehicle",
    "charges": [
-    "GRAND THEFT AUTO"
+    "TAKE VEHICLE W/O OWNER`S CONSENT/VEHICLE THEFT"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026064359",
-   "occurred_from": "2026-11-10T12:24:21-08:00",
-   "occurred_to": "2026-11-10T12:24:21-08:00",
+   "occurred_from": "2026-11-09T17:00:00-08:00",
+   "occurred_to": "2026-11-10T09:00:00-08:00",
    "place": {
     "address": "910 WEYBURN PL",
     "kind": "building",
@@ -677,28 +1224,29 @@
   },
   {
    "case_id": "26-2205",
-   "category": "vehicle",
+   "category": "burglary",
    "charges": [
-    "GRAND THEFT AUTO"
+    "TAKE VEHICLE W/O OWNER`S CONSENT/VEHICLE THEFT",
+    "POSSESS/ETC BURGLARY TOOLS"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
+   "disposition": "CLOSED: SUBJECT ARRESTED",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026064331",
-   "occurred_from": "2026-11-10T07:53:27-08:00",
-   "occurred_to": "2026-11-10T07:53:27-08:00",
+   "occurred_from": "2026-11-09T21:16:00-08:00",
+   "occurred_to": "2026-11-10T07:59:00-08:00",
    "place": {
-    "address": "415 GAYLEY AVE",
-    "kind": "address",
-    "lat": 34.070284266593,
-    "lon": -118.454442082976,
+    "address": null,
+    "kind": "none",
+    "lat": null,
+    "lon": null,
     "name": null,
     "radius_m": 0
    },
    "reported_at": "2026-11-10T07:53:27-08:00",
    "sensitive": false,
-   "status": "open",
-   "title": "Vehicle theft"
+   "status": "closed",
+   "title": "Burglary tools"
   },
   {
    "case_id": "26-2201",
@@ -848,6 +1396,27 @@
   },
   {
    "case_id": null,
+   "category": "mental_medical",
+   "charges": [],
+   "disposition": "CLOSED: SUBJECT ARRESTED",
+   "disposition_date": "2026-11-12",
+   "hidden_default": false,
+   "id": "sf93e7676ef3d3c",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-11-10T00:00:00-08:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
    "category": "sexual",
    "charges": [],
    "disposition": "INFORMATION ONLY",
@@ -865,6 +1434,27 @@
    "reported_at": "2026-11-10T00:00:00-08:00",
    "sensitive": true,
    "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
+   "category": "mental_medical",
+   "charges": [],
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-11-12",
+   "hidden_default": false,
+   "id": "s2744175084173f",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-11-10T00:00:00-08:00",
+   "sensitive": true,
+   "status": "open",
    "title": "Sensitive report"
   },
   {
@@ -1323,7 +1913,7 @@
     "PROBATION VIOLATION:REARREST/REVOKE"
    ],
    "disposition": "CLOSED: SUBJECT ARRESTED",
-   "disposition_date": "2026-11-11",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026064141",
    "occurred_from": "2026-11-09T04:58:00-08:00",
@@ -1428,31 +2018,6 @@
    "sensitive": true,
    "status": "closed",
    "title": "Sensitive report"
-  },
-  {
-   "case_id": "26-2192",
-   "category": "suspicious",
-   "charges": [
-    "UNAUTHORIZED SUBJECTS"
-   ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026064110",
-   "occurred_from": "2026-11-08T22:19:45-08:00",
-   "occurred_to": "2026-11-08T22:19:45-08:00",
-   "place": {
-    "address": "604 ROSE AVE",
-    "kind": "building",
-    "lat": 34.0266655,
-    "lon": -118.4137241,
-    "name": "VFC - MILKEN FAMILY FOUNDATION MEDICAL",
-    "radius_m": 0
-   },
-   "reported_at": "2026-11-08T22:19:45-08:00",
-   "sensitive": false,
-   "status": "open",
-   "title": "Unauthorized people"
   },
   {
    "case_id": "26-2191",
@@ -1706,6 +2271,27 @@
   },
   {
    "case_id": null,
+   "category": "mental_medical",
+   "charges": [],
+   "disposition": "CLOSED: SUBJECT ARRESTED",
+   "disposition_date": "2026-11-12",
+   "hidden_default": false,
+   "id": "s1ee24cf8565c7c",
+   "occurred_from": null,
+   "occurred_to": null,
+   "place": {
+    "kind": "area",
+    "lat": 34.0689,
+    "lon": -118.4452,
+    "radius_m": 400
+   },
+   "reported_at": "2026-11-08T00:00:00-08:00",
+   "sensitive": true,
+   "status": "closed",
+   "title": "Sensitive report"
+  },
+  {
+   "case_id": null,
    "category": "sexual",
    "charges": [],
    "disposition": "NON-CRIMINAL MATTER",
@@ -1807,8 +2393,8 @@
    "place": {
     "address": "611 CHARLES E YOUNG DR E",
     "kind": "building",
-    "lat": 34.0709741,
-    "lon": -118.4396451,
+    "lat": 34.0683922,
+    "lon": -118.4403219,
     "name": "BOYER HALL",
     "radius_m": 0
    },
@@ -3670,7 +4256,7 @@
    "case_id": "26-2157",
    "category": "admin",
    "charges": [
-    "LOST PROPERTY REPORT"
+    "APPROPRIATE LOST PROPERTY"
    ],
    "disposition": "VICTIM NOT DESIROUS OF REPORT",
    "disposition_date": null,
@@ -3689,7 +4275,7 @@
    "reported_at": "2026-11-04T22:07:26-08:00",
    "sensitive": false,
    "status": "closed",
-   "title": "Property report"
+   "title": "Lost property"
   },
   {
    "case_id": "26-2156",
@@ -4021,14 +4607,14 @@
    "case_id": "26-2150",
    "category": "theft",
    "charges": [
-    "GRAND THEFT REPORT"
+    "GRAND THEFT - FROM BUILDINGS"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
+   "disposition": "OPEN CASE",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026063041",
-   "occurred_from": "2026-11-04T14:38:02-08:00",
-   "occurred_to": "2026-11-04T14:38:02-08:00",
+   "occurred_from": "2026-10-27T10:30:00-07:00",
+   "occurred_to": "2026-10-27T12:35:00-07:00",
    "place": {
     "address": null,
     "kind": "none",
@@ -9097,14 +9683,14 @@
    "case_id": "26-2068",
    "category": "vehicle",
    "charges": [
-    "TRAFFIC COLLISION OPEN VEHICLE"
+    "TRAFFIC COLLISION REPORT"
    ],
    "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": null,
+   "disposition_date": "2026-11-05",
    "hidden_default": false,
    "id": "2026061322",
-   "occurred_from": "2026-10-28T08:16:40-07:00",
-   "occurred_to": "2026-10-28T08:16:40-07:00",
+   "occurred_from": "2026-10-28T08:14:59-07:00",
+   "occurred_to": "2026-10-28T08:15:00-07:00",
    "place": {
     "address": null,
     "kind": "none",
@@ -13117,8 +13703,8 @@
    "charges": [
     "TAKE VEHICLE W/O OWNER`S CONSENT/VEHICLE THEFT"
    ],
-   "disposition": "OPEN CASE: TO BE ASSIGNED",
-   "disposition_date": "2026-10-21",
+   "disposition": "VICTIM NOT DESIROUS OF REPORT",
+   "disposition_date": null,
    "hidden_default": false,
    "id": "2026059853",
    "occurred_from": "2026-10-20T19:00:00-07:00",
@@ -13133,7 +13719,7 @@
    },
    "reported_at": "2026-10-21T10:20:46-07:00",
    "sensitive": false,
-   "status": "open",
+   "status": "closed",
    "title": "Vehicle theft"
   },
   {
@@ -18117,8 +18703,8 @@
    "charges": [
     "BATTERY"
    ],
-   "disposition": "OPEN CASE",
-   "disposition_date": "2026-10-14",
+   "disposition": "CLOSED / INACTIVE: NO LEADS",
+   "disposition_date": "2026-11-12",
    "hidden_default": false,
    "id": "2026057651",
    "occurred_from": "2026-10-12T17:57:00-07:00",
@@ -18133,7 +18719,7 @@
    },
    "reported_at": "2026-10-12T18:01:22-07:00",
    "sensitive": false,
-   "status": "open",
+   "status": "closed",
    "title": "Battery"
   },
   {
@@ -33551,442 +34137,17 @@
    "sensitive": true,
    "status": "closed",
    "title": "Sensitive report"
-  },
-  {
-   "case_id": "26-1709",
-   "category": "admin",
-   "charges": [
-    "MISCELLANEOUS INCIDENT REPORT"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": "2026-09-14",
-   "hidden_default": true,
-   "id": "2026050637",
-   "occurred_from": "2026-09-12T19:45:00-07:00",
-   "occurred_to": "2026-09-12T21:00:00-07:00",
-   "place": {
-    "address": "240 CHARLES E YOUNG DR N",
-    "kind": "building",
-    "lat": 34.0759492,
-    "lon": -118.4408451,
-    "name": "BROAD ART CENTER",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T19:45:55-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Miscellaneous incident"
-  },
-  {
-   "case_id": null,
-   "category": "other",
-   "charges": [
-    "ACTUAL FIRE"
-   ],
-   "disposition": "REPORT TAKEN",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026050636",
-   "occurred_from": "2026-09-12T19:44:30-07:00",
-   "occurred_to": "2026-09-12T19:44:30-07:00",
-   "place": {
-    "address": "240 CHARLES E YOUNG DR N",
-    "kind": "building",
-    "lat": 34.0759492,
-    "lon": -118.4408451,
-    "name": "BROAD ART CENTER",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T19:44:30-07:00",
-   "sensitive": false,
-   "status": "unknown",
-   "title": "Fire"
-  },
-  {
-   "case_id": null,
-   "category": "alarm_fire",
-   "charges": [
-    "FIRE ALARM"
-   ],
-   "disposition": "REFERRED TO OUTSIDE AGENCY",
-   "disposition_date": null,
-   "hidden_default": true,
-   "id": "2026050635",
-   "occurred_from": "2026-09-12T19:41:04-07:00",
-   "occurred_to": "2026-09-12T19:41:04-07:00",
-   "place": {
-    "address": "300-BLOCK CHARLES E YOUNG DR W",
-    "kind": "block",
-    "lat": 34.072961,
-    "lon": -118.4397355,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-09-12T19:41:04-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Fire alarm"
-  },
-  {
-   "case_id": null,
-   "category": "alarm_fire",
-   "charges": [
-    "FIRE ALARM"
-   ],
-   "disposition": "REPORT TAKEN",
-   "disposition_date": null,
-   "hidden_default": true,
-   "id": "2026050634",
-   "occurred_from": "2026-09-12T19:38:44-07:00",
-   "occurred_to": "2026-09-12T19:38:44-07:00",
-   "place": {
-    "address": "351 CHARLES E YOUNG DR W",
-    "kind": "building",
-    "lat": 34.072975098267,
-    "lon": -118.439705519515,
-    "name": "DE NEVE PODIUM BUILDING",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T19:38:44-07:00",
-   "sensitive": false,
-   "status": "unknown",
-   "title": "Fire alarm"
-  },
-  {
-   "case_id": null,
-   "category": "theft",
-   "charges": [
-    "PETTY THEFT REPORT"
-   ],
-   "disposition": "CANCELLED BY REPORTING PARTY",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026050632",
-   "occurred_from": "2026-09-12T18:58:52-07:00",
-   "occurred_to": "2026-09-12T18:58:52-07:00",
-   "place": {
-    "address": "10995 LE CONTE AVE",
-    "kind": "address",
-    "lat": 34.063695392228,
-    "lon": -118.448293243025,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T18:58:52-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Theft"
-  },
-  {
-   "case_id": "26-1708",
-   "category": "theft",
-   "charges": [
-    "GRAND THEFT - FROM BUILDINGS"
-   ],
-   "disposition": "CLOSED / INACTIVE: NO LEADS",
-   "disposition_date": "2026-09-22",
-   "hidden_default": false,
-   "id": "2026050630",
-   "occurred_from": "2026-09-11T10:40:00-07:00",
-   "occurred_to": "2026-09-12T18:30:00-07:00",
-   "place": {
-    "address": "308 WESTWOOD PZ",
-    "kind": "building",
-    "lat": 34.073763709947,
-    "lon": -118.445122485249,
-    "name": "ACKERMAN UNION",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T18:49:32-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Theft"
-  },
-  {
-   "case_id": null,
-   "category": "suspicious",
-   "charges": [
-    "SUBJECT REFUSING TO LEAVE"
-   ],
-   "disposition": "DETAIL HANDLED: NO REPORT",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026050629",
-   "occurred_from": "2026-09-12T18:39:24-07:00",
-   "occurred_to": "2026-09-12T18:39:24-07:00",
-   "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T18:39:24-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Refusing to leave"
-  },
-  {
-   "case_id": null,
-   "category": "alarm_fire",
-   "charges": [
-    "BURGLARY ALARM"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": null,
-   "hidden_default": true,
-   "id": "2026050604",
-   "occurred_from": "2026-09-12T15:31:53-07:00",
-   "occurred_to": "2026-09-12T15:31:53-07:00",
-   "place": {
-    "address": "600-BLOCK HILGARD AVE",
-    "kind": "block",
-    "lat": 34.068671344588,
-    "lon": -118.439071466164,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-09-12T15:31:53-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Burglar alarm"
-  },
-  {
-   "case_id": null,
-   "category": "alarm_fire",
-   "charges": [
-    "FIRE ALARM"
-   ],
-   "disposition": "DETAIL HANDLED: NO REPORT",
-   "disposition_date": null,
-   "hidden_default": true,
-   "id": "2026050600",
-   "occurred_from": "2026-09-12T15:05:15-07:00",
-   "occurred_to": "2026-09-12T15:05:15-07:00",
-   "place": {
-    "address": "200-BLOCK DE NEVE DR",
-    "kind": "block",
-    "lat": 34.07518365529,
-    "lon": -118.453543774818,
-    "name": null,
-    "radius_m": 80
-   },
-   "reported_at": "2026-09-12T15:05:15-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Fire alarm"
-  },
-  {
-   "case_id": null,
-   "category": "alarm_fire",
-   "charges": [
-    "FIRE ALARM"
-   ],
-   "disposition": "REPORT TAKEN",
-   "disposition_date": null,
-   "hidden_default": true,
-   "id": "2026050599",
-   "occurred_from": "2026-09-12T15:04:03-07:00",
-   "occurred_to": "2026-09-12T15:04:03-07:00",
-   "place": {
-    "address": "270 DE NEVE DR",
-    "kind": "building",
-    "lat": 34.074407788029,
-    "lon": -118.453211304328,
-    "name": "RIEBER TERRACE",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T15:04:03-07:00",
-   "sensitive": false,
-   "status": "unknown",
-   "title": "Fire alarm"
-  },
-  {
-   "case_id": null,
-   "category": "suspicious",
-   "charges": [
-    "UNAUTHORIZED SUBJECTS"
-   ],
-   "disposition": "WARNED OR ADVISED",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026050556",
-   "occurred_from": "2026-09-12T10:49:47-07:00",
-   "occurred_to": "2026-09-12T10:49:47-07:00",
-   "place": {
-    "address": "555 WESTWOOD PZ",
-    "kind": "address",
-    "lat": 34.068268713913,
-    "lon": -118.445052132064,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T10:49:47-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Unauthorized people"
-  },
-  {
-   "case_id": null,
-   "category": "alarm_fire",
-   "charges": [
-    "FIRE ALARM"
-   ],
-   "disposition": "REFERRED TO OUTSIDE AGENCY",
-   "disposition_date": null,
-   "hidden_default": true,
-   "id": "2026050517",
-   "occurred_from": "2026-09-12T08:30:22-07:00",
-   "occurred_to": "2026-09-12T08:30:22-07:00",
-   "place": {
-    "address": "11130 ROSE AVE",
-    "kind": "building",
-    "lat": 34.021691896102,
-    "lon": -118.422739119233,
-    "name": "ROSE APARTMENTS",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T08:30:22-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Fire alarm"
-  },
-  {
-   "case_id": "26-1707",
-   "category": "vandalism",
-   "charges": [
-    "VANDALISM LESS THAN $400"
-   ],
-   "disposition": "CLOSED: SUBJECT ARRESTED",
-   "disposition_date": "2026-09-14",
-   "hidden_default": false,
-   "id": "2026050510",
-   "occurred_from": "2026-09-12T07:35:00-07:00",
-   "occurred_to": "2026-09-12T07:35:00-07:00",
-   "place": {
-    "address": "1250 15TH ST",
-    "kind": "address",
-    "lat": 34.0267873,
-    "lon": -118.4871644,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T07:39:52-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Vandalism"
-  },
-  {
-   "case_id": null,
-   "category": "violent",
-   "charges": [
-    "BATTERY REPORT"
-   ],
-   "disposition": "DETAIL HANDLED: NO REPORT",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026050485",
-   "occurred_from": "2026-09-12T06:19:57-07:00",
-   "occurred_to": "2026-09-12T06:19:57-07:00",
-   "place": {
-    "address": "757 WESTWOOD PZ",
-    "kind": "address",
-    "lat": 34.065912663582,
-    "lon": -118.445274621639,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T06:19:57-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Battery"
-  },
-  {
-   "case_id": null,
-   "category": "suspicious",
-   "charges": [
-    "SUBJECT REFUSING TO LEAVE"
-   ],
-   "disposition": "NON-CRIMINAL MATTER",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026050481",
-   "occurred_from": "2026-09-12T02:54:13-07:00",
-   "occurred_to": "2026-09-12T02:54:13-07:00",
-   "place": {
-    "address": "757 WESTWOOD PZ",
-    "kind": "address",
-    "lat": 34.065912663582,
-    "lon": -118.445274621639,
-    "name": null,
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T02:54:13-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Refusing to leave"
-  },
-  {
-   "case_id": "26-1706",
-   "category": "theft",
-   "charges": [
-    "PETTY THEFT - MAIL OR PACKAGE"
-   ],
-   "disposition": "VICTIM NOT DESIROUS OF REPORT",
-   "disposition_date": null,
-   "hidden_default": false,
-   "id": "2026050474",
-   "occurred_from": "2026-09-06T00:00:00-07:00",
-   "occurred_to": "2026-09-12T01:30:00-07:00",
-   "place": {
-    "address": "10995 LE CONTE AVE",
-    "kind": "building",
-    "lat": 34.063695392228,
-    "lon": -118.448293243025,
-    "name": "GAYLEY HEIGHTS APARTMENTS",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T01:40:29-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Theft"
-  },
-  {
-   "case_id": "26-1705",
-   "category": "suspicious",
-   "charges": [
-    "TRESPASS:OCCUPY PROPERTY WITHOUT CONSENT"
-   ],
-   "disposition": "CLOSED: SUBJECT ARRESTED",
-   "disposition_date": "2026-09-14",
-   "hidden_default": false,
-   "id": "2026050469",
-   "occurred_from": "2026-09-12T01:04:00-07:00",
-   "occurred_to": "2026-09-12T01:04:00-07:00",
-   "place": {
-    "address": "602 CHARLES E YOUNG DRIVE EAST",
-    "kind": "building",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
-    "name": "PARKING STRUCTURE 2",
-    "radius_m": 0
-   },
-   "reported_at": "2026-09-12T01:04:38-07:00",
-   "sensitive": false,
-   "status": "closed",
-   "title": "Trespass"
   }
  ],
- "generated_at": "2026-11-12T14:51:33-08:00",
+ "generated_at": "2026-11-12T19:32:56-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-12T22:50:56.201007+00:00",
-  "log_first_day": "2026-09-12",
-  "log_last_day": "2026-11-11",
+  "fetched_at": "2026-11-13T03:32:09.591105+00:00",
+  "log_first_day": "2026-09-13",
+  "log_last_day": "2026-11-12",
   "name": "UCLA PD Daily Crime and Fire Log",
-  "sha256": "704f1aaff5a5664e7cc221bd87c7321f7b19006e80888177edbe66eff92120ca",
-  "unchanged_since": "2026-11-11T23:47:31.819082+00:00",
+  "sha256": "5f949c24c601d82c1bf105f7c759300f965b2bdbcefc1742a540ac0bfe1441f0",
+  "unchanged_since": "2026-11-13T03:32:09.591105+00:00",
   "url": "https://ucla.app.box.com/index.php?rm=box_download_shared_file&shared_name=1bdwjhok3hx4nsoiky8yp8l78yezqhe9&file_id=f_367602245517"
  }
 }
