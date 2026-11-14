@@ -1112,8 +1112,8 @@
    "place": {
     "address": "WESTWOOD BLVD/WILSHIRE BLVD",
     "kind": "address",
-    "lat": 34.0587567,
-    "lon": -118.443379,
+    "lat": 34.0598952,
+    "lon": -118.441236,
     "name": null,
     "radius_m": 0
    },
@@ -2393,8 +2393,8 @@
    "place": {
     "address": "611 CHARLES E YOUNG DR E",
     "kind": "building",
-    "lat": 34.0709741,
-    "lon": -118.4396451,
+    "lat": 34.0695409,
+    "lon": -118.4402402,
     "name": "BOYER HALL",
     "radius_m": 0
    },
@@ -4025,8 +4025,8 @@
    "place": {
     "address": "622 ROSE AVENUE",
     "kind": "building",
-    "lat": 34.0006931,
-    "lon": -118.4691865,
+    "lat": 34.0014692,
+    "lon": -118.4676628,
     "name": "VFC - IRMA COLEN ADMINISTRATION BUILDING",
     "radius_m": 0
    },
@@ -34139,10 +34139,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-13T14:48:17-08:00",
+ "generated_at": "2026-11-13T19:29:32-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-13T22:47:28.630733+00:00",
+  "fetched_at": "2026-11-14T03:28:43.428002+00:00",
   "log_first_day": "2026-09-13",
   "log_last_day": "2026-11-12",
   "name": "UCLA PD Daily Crime and Fire Log",
