@@ -365,8 +365,8 @@
    "place": {
     "address": "612 CHARLES E YOUNG DR E",
     "kind": "address",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": null,
     "radius_m": 0
    },
@@ -2393,8 +2393,8 @@
    "place": {
     "address": "611 CHARLES E YOUNG DR E",
     "kind": "building",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": "BOYER HALL",
     "radius_m": 0
    },
@@ -4025,8 +4025,8 @@
    "place": {
     "address": "622 ROSE AVENUE",
     "kind": "building",
-    "lat": 34.017202,
-    "lon": -118.4380945,
+    "lat": 34.0006931,
+    "lon": -118.4691865,
     "name": "VFC - IRMA COLEN ADMINISTRATION BUILDING",
     "radius_m": 0
    },
@@ -34139,10 +34139,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-14T13:40:56-08:00",
+ "generated_at": "2026-11-14T18:58:55-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-14T21:40:10.485883+00:00",
+  "fetched_at": "2026-11-15T02:58:06.274266+00:00",
   "log_first_day": "2026-09-13",
   "log_last_day": "2026-11-12",
   "name": "UCLA PD Daily Crime and Fire Log",
