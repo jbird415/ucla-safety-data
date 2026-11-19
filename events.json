@@ -4379,8 +4379,8 @@
    "place": {
     "address": "WESTWOOD BLVD/WILSHIRE BLVD",
     "kind": "address",
-    "lat": 34.0587567,
-    "lon": -118.443379,
+    "lat": 34.0598952,
+    "lon": -118.441236,
     "name": null,
     "radius_m": 0
    },
@@ -4886,8 +4886,8 @@
    "place": {
     "address": "2800-BLOCK WILSHIRE BLVD",
     "kind": "block",
-    "lat": 34.0551848,
-    "lon": -118.4529951,
+    "lat": 34.0443496,
+    "lon": -118.4671754,
     "name": null,
     "radius_m": 80
    },
@@ -5660,8 +5660,8 @@
    "place": {
     "address": "611 CHARLES E YOUNG DR E",
     "kind": "building",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": "BOYER HALL",
     "radius_m": 0
    },
@@ -34991,10 +34991,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-18T15:31:44-08:00",
+ "generated_at": "2026-11-18T20:25:32-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-18T23:30:25.312021+00:00",
+  "fetched_at": "2026-11-19T04:24:24.701421+00:00",
   "log_first_day": "2026-09-19",
   "log_last_day": "2026-11-18",
   "name": "UCLA PD Daily Crime and Fire Log",
