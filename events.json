@@ -90,8 +90,8 @@
    "place": {
     "address": "3161 S SEPULVEDA BLVD",
     "kind": "building",
-    "lat": 34.0246339,
-    "lon": -118.4265957,
+    "lat": 34.024659624035,
+    "lon": -118.426580344619,
     "name": "SEPULVEDA APARTMENTS",
     "radius_m": 0
    },
@@ -181,10 +181,10 @@
    "occurred_from": "2026-11-22T19:45:00-08:00",
    "occurred_to": "2026-11-22T19:51:00-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
+    "address": "351 WESTWOOD PZ",
+    "kind": "address",
+    "lat": 34.072985957994,
+    "lon": -118.444855369854,
     "name": null,
     "radius_m": 0
    },
@@ -233,8 +233,8 @@
    "place": {
     "address": "925 WEYBURN TER",
     "kind": "building",
-    "lat": 34.0614806,
-    "lon": -118.4498049,
+    "lat": 34.061940860642,
+    "lon": -118.448709324177,
     "name": "SYCAMORE COURT",
     "radius_m": 0
    },
@@ -308,8 +308,8 @@
    "place": {
     "address": "1250 E 16TH ST",
     "kind": "address",
-    "lat": 34.0220755,
-    "lon": -118.4796649,
+    "lat": 34.027579308024,
+    "lon": -118.486185163843,
     "name": null,
     "radius_m": 0
    },
@@ -333,8 +333,8 @@
    "place": {
     "address": "632 HILGARD AVE",
     "kind": "building",
-    "lat": 34.0686608,
-    "lon": -118.4387965,
+    "lat": 34.068974063333,
+    "lon": -118.439010917904,
     "name": "ALPHA EPSILON PHI SORORITY",
     "radius_m": 0
    },
@@ -408,8 +408,8 @@
    "place": {
     "address": "725 WEYBURN TER",
     "kind": "building",
-    "lat": 34.0632997,
-    "lon": -118.4517236,
+    "lat": 34.06367788252,
+    "lon": -118.450407239293,
     "name": "CYPRESS COURT",
     "radius_m": 0
    },
@@ -619,8 +619,8 @@
    "place": {
     "address": "925 GAYLEY AVE",
     "kind": "address",
-    "lat": 34.0630012,
-    "lon": -118.4482219,
+    "lat": 34.062600788335,
+    "lon": -118.448307056981,
     "name": null,
     "radius_m": 0
    },
@@ -1224,8 +1224,8 @@
    "place": {
     "address": "11100-BLOCK ROSE AVE",
     "kind": "block",
-    "lat": 34.0215223,
-    "lon": -118.4229943,
+    "lat": 34.021542742666,
+    "lon": -118.423011509677,
     "name": null,
     "radius_m": 80
    },
@@ -1399,8 +1399,8 @@
    "place": {
     "address": "540 MIDVALE AVE",
     "kind": "building",
-    "lat": 34.0674337,
-    "lon": -118.4523331,
+    "lat": 34.067459652294,
+    "lon": -118.452380484235,
     "name": "540 MIDVALE APARTMENTS",
     "radius_m": 0
    },
@@ -1723,8 +1723,8 @@
    "place": {
     "address": "925 WEYBURN PL",
     "kind": "building",
-    "lat": 34.0621041,
-    "lon": -118.449577,
+    "lat": 34.061940860642,
+    "lon": -118.448709324177,
     "name": "WEYBURN TERRACE APARTMENTS",
     "radius_m": 0
    },
@@ -1796,10 +1796,10 @@
    "occurred_from": "2026-11-19T13:37:02-08:00",
    "occurred_to": "2026-11-19T13:37:02-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
+    "address": "11666-205 GOSHEN AVE",
+    "kind": "address",
+    "lat": 34.050572827804,
+    "lon": -118.461253146416,
     "name": null,
     "radius_m": 0
    },
@@ -2308,8 +2308,8 @@
    "place": {
     "address": "465 MIDVALE AVE",
     "kind": "address",
-    "lat": 34.0687407,
-    "lon": -118.4526272,
+    "lat": 34.068720488432,
+    "lon": -118.452597216451,
     "name": null,
     "radius_m": 0
    },
@@ -2433,8 +2433,8 @@
    "place": {
     "address": "925 WEYBURN TER",
     "kind": "address",
-    "lat": 34.0614806,
-    "lon": -118.4498049,
+    "lat": 34.061940860642,
+    "lon": -118.448709324177,
     "name": null,
     "radius_m": 0
    },
@@ -2606,11 +2606,11 @@
    "occurred_from": "2026-11-18T11:15:30-08:00",
    "occurred_to": "2026-11-18T11:15:30-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
-    "name": null,
+    "address": "100 MEDICAL PZ                           P",
+    "kind": "building",
+    "lat": 34.065127970185,
+    "lon": -118.445827971787,
+    "name": "MEDICAL PLAZA 100 MANOUKIAN MEDICAL BLDG",
     "radius_m": 0
    },
    "reported_at": "2026-11-18T11:15:30-08:00",
@@ -2631,11 +2631,11 @@
    "occurred_from": "2026-11-18T11:15:17-08:00",
    "occurred_to": "2026-11-18T11:15:17-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
-    "name": null,
+    "address": "100 MEDICAL PZ                           P",
+    "kind": "building",
+    "lat": 34.065127970185,
+    "lon": -118.445827971787,
+    "name": "MEDICAL PLAZA 100 MANOUKIAN MEDICAL BLDG",
     "radius_m": 0
    },
    "reported_at": "2026-11-18T11:15:17-08:00",
@@ -2883,8 +2883,8 @@
    "place": {
     "address": "888 HILGARD AVE",
     "kind": "address",
-    "lat": 34.064277,
-    "lon": -118.4404836,
+    "lat": 34.064340804372,
+    "lon": -118.440905325181,
     "name": null,
     "radius_m": 0
    },
@@ -2958,8 +2958,8 @@
    "place": {
     "address": "888 HILGARD AVE",
     "kind": "address",
-    "lat": 34.064277,
-    "lon": -118.4404836,
+    "lat": 34.064340804372,
+    "lon": -118.440905325181,
     "name": null,
     "radius_m": 0
    },
@@ -3104,8 +3104,8 @@
    "place": {
     "address": "925 WEYBURN TER",
     "kind": "building",
-    "lat": 34.0614806,
-    "lon": -118.4498049,
+    "lat": 34.061940860642,
+    "lon": -118.448709324177,
     "name": "SYCAMORE COURT",
     "radius_m": 0
    },
@@ -3180,8 +3180,8 @@
    "place": {
     "address": "606 LEVERING AVE",
     "kind": "address",
-    "lat": 34.0665318,
-    "lon": -118.4530819,
+    "lat": 34.066513705754,
+    "lon": -118.453149993174,
     "name": null,
     "radius_m": 0
    },
@@ -3205,8 +3205,8 @@
    "place": {
     "address": "606 LEVERING AVE",
     "kind": "address",
-    "lat": 34.0665318,
-    "lon": -118.4530819,
+    "lat": 34.066513705754,
+    "lon": -118.453149993174,
     "name": null,
     "radius_m": 0
    },
@@ -3305,8 +3305,8 @@
    "place": {
     "address": "520 MIDVALE AVE",
     "kind": "address",
-    "lat": 34.067759,
-    "lon": -118.452412,
+    "lat": 34.067798326113,
+    "lon": -118.452447494479,
     "name": null,
     "radius_m": 0
    },
@@ -4143,8 +4143,8 @@
    "place": {
     "address": "715 GAYLEY AVENUE",
     "kind": "building",
-    "lat": 34.065094,
-    "lon": -118.448021,
+    "lat": 34.065151087643,
+    "lon": -118.447970762808,
     "name": "GAYLEY COURT",
     "radius_m": 0
    },
@@ -4189,8 +4189,8 @@
    "place": {
     "address": "351 DE NEVE DR",
     "kind": "address",
-    "lat": 34.0710023,
-    "lon": -118.4514226,
+    "lat": 34.071057435427,
+    "lon": -118.45153174924,
     "name": null,
     "radius_m": 0
    },
@@ -4466,8 +4466,8 @@
    "place": {
     "address": "10875 LE CONTE AVE",
     "kind": "address",
-    "lat": 34.0637717,
-    "lon": -118.4442775,
+    "lat": 34.06374151765,
+    "lon": -118.444596772893,
     "name": null,
     "radius_m": 0
    },
@@ -4779,8 +4779,8 @@
    "place": {
     "address": "512 VETERAN AVENUE",
     "kind": "address",
-    "lat": 34.0681338,
-    "lon": -118.4547009,
+    "lat": 34.068181741763,
+    "lon": -118.454735435478,
     "name": null,
     "radius_m": 0
    },
@@ -4804,8 +4804,8 @@
    "place": {
     "address": "1099 GAYLEY AVE",
     "kind": "address",
-    "lat": 34.0602729,
-    "lon": -118.4467449,
+    "lat": 34.060236294694,
+    "lon": -118.446574473114,
     "name": null,
     "radius_m": 0
    },
@@ -4929,8 +4929,8 @@
    "place": {
     "address": "3777 MENTONE AVE",
     "kind": "address",
-    "lat": 34.0204543,
-    "lon": -118.4055816,
+    "lat": 34.020436711136,
+    "lon": -118.405533267714,
     "name": null,
     "radius_m": 0
    },
@@ -5004,8 +5004,8 @@
    "place": {
     "address": "520 MIDVALE AVE",
     "kind": "address",
-    "lat": 34.067759,
-    "lon": -118.452412,
+    "lat": 34.067798326113,
+    "lon": -118.452447494479,
     "name": null,
     "radius_m": 0
    },
@@ -5200,8 +5200,8 @@
    "place": {
     "address": "LE CONTE AVE/GAYLEY AVE",
     "kind": "address",
-    "lat": 34.0639918,
-    "lon": -118.448286,
+    "lat": 34.0639185,
+    "lon": -118.448082,
     "name": null,
     "radius_m": 0
    },
@@ -5499,10 +5499,10 @@
    "occurred_from": "2026-11-12T23:43:59-08:00",
    "occurred_to": "2026-11-12T23:44:00-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
+    "address": "10829 LE CONTE AVE/TIVERTON AVE",
+    "kind": "address",
+    "lat": 34.063757589128,
+    "lon": -118.443297075257,
     "name": null,
     "radius_m": 0
    },
@@ -5527,8 +5527,8 @@
    "place": {
     "address": "456 LANDFAIR AVE",
     "kind": "building",
-    "lat": 34.0693304,
-    "lon": -118.4518245,
+    "lat": 34.069344223868,
+    "lon": -118.45189028407,
     "name": "WESTWOOD CHATEAU APARTMENTS",
     "radius_m": 0
    },
@@ -6697,8 +6697,8 @@
    "place": {
     "address": "1083 GAYLEY AVE",
     "kind": "address",
-    "lat": 34.0604895,
-    "lon": -118.4471089,
+    "lat": 34.06050483228,
+    "lon": -118.446806081959,
     "name": null,
     "radius_m": 0
    },
@@ -6847,8 +6847,8 @@
    "place": {
     "address": "1083 GAYLEY AVENUE",
     "kind": "building",
-    "lat": 34.0604895,
-    "lon": -118.4471089,
+    "lat": 34.06050483228,
+    "lon": -118.446806081959,
     "name": "GAYLEY UNEX",
     "radius_m": 0
    },
@@ -6997,8 +6997,8 @@
    "place": {
     "address": "3327 SEPULVEDA BLVD",
     "kind": "address",
-    "lat": 34.0127699,
-    "lon": -118.4170749,
+    "lat": 34.022629006122,
+    "lon": -118.424973729975,
     "name": null,
     "radius_m": 0
    },
@@ -7022,8 +7022,8 @@
    "place": {
     "address": "WESTWOOD BLVD/WILSHIRE BLVD",
     "kind": "address",
-    "lat": 34.0588626,
-    "lon": -118.444825,
+    "lat": 34.0598952,
+    "lon": -118.441236,
     "name": null,
     "radius_m": 0
    },
@@ -7045,10 +7045,10 @@
    "occurred_from": "2026-11-10T10:53:00-08:00",
    "occurred_to": "2026-11-10T10:53:00-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
+    "address": "10999 ASHTON AVE/VETERAN AVE",
+    "kind": "address",
+    "lat": 34.056901052847,
+    "lon": -118.446901331096,
     "name": null,
     "radius_m": 0
    },
@@ -7529,8 +7529,8 @@
    "place": {
     "address": "2800-BLOCK WILSHIRE BLVD",
     "kind": "block",
-    "lat": 34.0402326,
-    "lon": -118.4722465,
+    "lat": 34.0443496,
+    "lon": -118.4671754,
     "name": null,
     "radius_m": 80
    },
@@ -7604,8 +7604,8 @@
    "place": {
     "address": "10905 OHIO AVENUE",
     "kind": "address",
-    "lat": 34.0535292,
-    "lon": -118.4419757,
+    "lat": 34.053508166275,
+    "lon": -118.44174982541,
     "name": null,
     "radius_m": 0
    },
@@ -7802,10 +7802,10 @@
    "occurred_from": "2026-11-09T06:23:00-08:00",
    "occurred_to": "2026-11-09T06:23:00-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
+    "address": "10599 SUNSET BLVD/ROYCE DR",
+    "kind": "address",
+    "lat": 34.077477288409,
+    "lon": -118.442766774963,
     "name": null,
     "radius_m": 0
    },
@@ -8044,8 +8044,8 @@
    "place": {
     "address": "1055 BROXTON AVE",
     "kind": "address",
-    "lat": 34.0613973,
-    "lon": -118.4465348,
+    "lat": 34.061503810279,
+    "lon": -118.446346604305,
     "name": null,
     "radius_m": 0
    },
@@ -8069,8 +8069,8 @@
    "place": {
     "address": "403 HILGARD AVE",
     "kind": "address",
-    "lat": 34.0740168,
-    "lon": -118.4377431,
+    "lat": 34.075192080442,
+    "lon": -118.438503258642,
     "name": null,
     "radius_m": 0
    },
@@ -8142,10 +8142,10 @@
    "occurred_from": "2026-11-08T08:21:00-08:00",
    "occurred_to": "2026-11-08T08:21:00-08:00",
    "place": {
-    "address": null,
-    "kind": "none",
-    "lat": null,
-    "lon": null,
+    "address": "10499 SUNSET BLVD/HILGARD AVE",
+    "kind": "address",
+    "lat": 34.079475015041,
+    "lon": -118.437744436707,
     "name": null,
     "radius_m": 0
    },
@@ -8678,8 +8678,8 @@
    "place": {
     "address": "1062 VETERAN AVE",
     "kind": "address",
-    "lat": 34.0603959,
-    "lon": -118.4497073,
+    "lat": 34.060431435056,
+    "lon": -118.449770975432,
     "name": null,
     "radius_m": 0
    },
@@ -8941,8 +8941,8 @@
    "place": {
     "address": "11050 STRATHMORE DR",
     "kind": "address",
-    "lat": 34.0640772,
-    "lon": -118.451423,
+    "lat": 34.064220656506,
+    "lon": -118.451505824808,
     "name": null,
     "radius_m": 0
    },
@@ -9292,8 +9292,8 @@
    "place": {
     "address": "1262 WESTWOOD BLVD",
     "kind": "building",
-    "lat": 34.0577521,
-    "lon": -118.4427816,
+    "lat": 34.057588824518,
+    "lon": -118.443029040773,
     "name": "UCLA NIMOY THEATER",
     "radius_m": 0
    },
@@ -9534,8 +9534,8 @@
    "place": {
     "address": "655 GAYLEY AVE",
     "kind": "address",
-    "lat": 34.0667541,
-    "lon": -118.447754,
+    "lat": 34.066745231159,
+    "lon": -118.44769842568,
     "name": null,
     "radius_m": 0
    },
@@ -9935,8 +9935,8 @@
    "place": {
     "address": "622 ROSE AVENUE",
     "kind": "building",
-    "lat": 34.017202,
-    "lon": -118.4380945,
+    "lat": 34.0177637,
+    "lon": -118.4370969,
     "name": "VFC - IRMA COLEN ADMINISTRATION BUILDING",
     "radius_m": 0
    },
@@ -10010,8 +10010,8 @@
    "place": {
     "address": "3742 CLARINGTON AVE",
     "kind": "building",
-    "lat": 34.023903,
-    "lon": -118.4012689,
+    "lat": 34.023897812343,
+    "lon": -118.401299724375,
     "name": "CLARINGTON APARTMENTS",
     "radius_m": 0
    },
@@ -10920,8 +10920,8 @@
    "place": {
     "address": "3271 S SEPULVEDA BLVD",
     "kind": "building",
-    "lat": 34.0246339,
-    "lon": -118.4265957,
+    "lat": 34.024659624035,
+    "lon": -118.426580344619,
     "name": "SEPULVEDA APARTMENTS",
     "radius_m": 0
    },
@@ -19058,8 +19058,8 @@
    "place": {
     "address": "3261 S SEPULVEDA BLVD",
     "kind": "building",
-    "lat": 34.0246339,
-    "lon": -118.4265957,
+    "lat": 34.024659624035,
+    "lon": -118.426580344619,
     "name": "SEPULVEDA APARTMENTS",
     "radius_m": 0
    },
@@ -24847,8 +24847,8 @@
    "place": {
     "address": "3155 S SEPULVEDA BLVD",
     "kind": "building",
-    "lat": 34.0246339,
-    "lon": -118.4265957,
+    "lat": 34.024659624035,
+    "lon": -118.426580344619,
     "name": "SEPULVEDA APARTMENTS",
     "radius_m": 0
    },
@@ -27214,8 +27214,8 @@
    "place": {
     "address": "3171 S SEPULVEDA BLVD",
     "kind": "building",
-    "lat": 34.0246339,
-    "lon": -118.4265957,
+    "lat": 34.024659624035,
+    "lon": -118.426580344619,
     "name": "SEPULVEDA APARTMENTS",
     "radius_m": 0
    },
@@ -34862,10 +34862,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-23T19:30:53-08:00",
+ "generated_at": "2026-11-23T23:03:23-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-24T03:26:34.862239+00:00",
+  "fetched_at": "2026-11-24T07:02:09.431267+00:00",
   "log_first_day": "2026-09-24",
   "log_last_day": "2026-11-23",
   "name": "UCLA PD Daily Crime and Fire Log",
