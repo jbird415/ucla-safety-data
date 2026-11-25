@@ -7022,8 +7022,8 @@
    "place": {
     "address": "WESTWOOD BLVD/WILSHIRE BLVD",
     "kind": "address",
-    "lat": 34.0598952,
-    "lon": -118.441236,
+    "lat": 34.0587567,
+    "lon": -118.443379,
     "name": null,
     "radius_m": 0
    },
@@ -34862,10 +34862,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-24T17:33:10-08:00",
+ "generated_at": "2026-11-24T21:37:42-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-25T01:31:56.572685+00:00",
+  "fetched_at": "2026-11-25T05:36:30.000256+00:00",
   "log_first_day": "2026-09-24",
   "log_last_day": "2026-11-23",
   "name": "UCLA PD Daily Crime and Fire Log",
