@@ -34862,10 +34862,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-23T23:03:23-08:00",
+ "generated_at": "2026-11-24T17:33:10-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-24T07:02:09.431267+00:00",
+  "fetched_at": "2026-11-25T01:31:56.572685+00:00",
   "log_first_day": "2026-09-24",
   "log_last_day": "2026-11-23",
   "name": "UCLA PD Daily Crime and Fire Log",
