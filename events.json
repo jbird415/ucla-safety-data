@@ -4068,8 +4068,8 @@
    "place": {
     "address": "612 CHARLES E YOUNG DR E",
     "kind": "address",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": null,
     "radius_m": 0
    },
@@ -7410,8 +7410,8 @@
    "place": {
     "address": "612 CHARLES E YOUNG DR E",
     "kind": "address",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": null,
     "radius_m": 0
    },
@@ -8157,8 +8157,8 @@
    "place": {
     "address": "WESTWOOD BLVD/WILSHIRE BLVD",
     "kind": "address",
-    "lat": 34.0598952,
-    "lon": -118.441236,
+    "lat": 34.0587567,
+    "lon": -118.443379,
     "name": null,
     "radius_m": 0
    },
@@ -8664,8 +8664,8 @@
    "place": {
     "address": "2800-BLOCK WILSHIRE BLVD",
     "kind": "block",
-    "lat": 34.0443496,
-    "lon": -118.4671754,
+    "lat": 34.0602852,
+    "lon": -118.4382396,
     "name": null,
     "radius_m": 80
    },
@@ -9438,8 +9438,8 @@
    "place": {
     "address": "611 CHARLES E YOUNG DR E",
     "kind": "building",
-    "lat": 34.0709741,
-    "lon": -118.4396451,
+    "lat": 34.0695409,
+    "lon": -118.4402402,
     "name": "BOYER HALL",
     "radius_m": 0
    },
@@ -34786,10 +34786,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-25T17:07:38-08:00",
+ "generated_at": "2026-11-25T21:20:52-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-26T01:06:23.441487+00:00",
+  "fetched_at": "2026-11-26T05:19:36.676066+00:00",
   "log_first_day": "2026-09-26",
   "log_last_day": "2026-11-25",
   "name": "UCLA PD Daily Crime and Fire Log",
