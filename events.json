@@ -4656,8 +4656,8 @@
    "place": {
     "address": "612 CHARLES E YOUNG DR E",
     "kind": "address",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": null,
     "radius_m": 0
    },
@@ -6923,8 +6923,8 @@
    "place": {
     "address": "LE CONTE AVE/GAYLEY AVE",
     "kind": "address",
-    "lat": 34.0639918,
-    "lon": -118.448286,
+    "lat": 34.0639185,
+    "lon": -118.448082,
     "name": null,
     "radius_m": 0
    },
@@ -7998,8 +7998,8 @@
    "place": {
     "address": "612 CHARLES E YOUNG DR E",
     "kind": "address",
-    "lat": 34.0695409,
-    "lon": -118.4402402,
+    "lat": 34.0709741,
+    "lon": -118.4396451,
     "name": null,
     "radius_m": 0
    },
@@ -8745,8 +8745,8 @@
    "place": {
     "address": "WESTWOOD BLVD/WILSHIRE BLVD",
     "kind": "address",
-    "lat": 34.0598952,
-    "lon": -118.441236,
+    "lat": 34.0591667,
+    "lon": -118.4408333,
     "name": null,
     "radius_m": 0
    },
@@ -9252,8 +9252,8 @@
    "place": {
     "address": "2800-BLOCK WILSHIRE BLVD",
     "kind": "block",
-    "lat": 34.0402326,
-    "lon": -118.4722465,
+    "lat": 34.0443496,
+    "lon": -118.4671754,
     "name": null,
     "radius_m": 80
    },
@@ -11658,8 +11658,8 @@
    "place": {
     "address": "622 ROSE AVENUE",
     "kind": "building",
-    "lat": 34.0177637,
-    "lon": -118.4370969,
+    "lat": 34.017202,
+    "lon": -118.4380945,
     "name": "VFC - IRMA COLEN ADMINISTRATION BUILDING",
     "radius_m": 0
    },
@@ -35069,10 +35069,10 @@
    "title": "Unauthorized people"
   }
  ],
- "generated_at": "2026-11-26T17:08:55-08:00",
+ "generated_at": "2026-11-26T21:16:34-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-27T01:07:36.351753+00:00",
+  "fetched_at": "2026-11-27T05:15:13.190871+00:00",
   "log_first_day": "2026-09-27",
   "log_last_day": "2026-11-26",
   "name": "UCLA PD Daily Crime and Fire Log",
