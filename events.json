@@ -4985,8 +4985,8 @@
    "place": {
     "address": "612 CHARLES E YOUNG DR E",
     "kind": "address",
-    "lat": 34.0709741,
-    "lon": -118.4396451,
+    "lat": 34.0695409,
+    "lon": -118.4402402,
     "name": null,
     "radius_m": 0
    },
@@ -7252,8 +7252,8 @@
    "place": {
     "address": "LE CONTE AVE/GAYLEY AVE",
     "kind": "address",
-    "lat": 34.0639185,
-    "lon": -118.448082,
+    "lat": 34.0639918,
+    "lon": -118.448286,
     "name": null,
     "radius_m": 0
    },
@@ -8327,8 +8327,8 @@
    "place": {
     "address": "612 CHARLES E YOUNG DR E",
     "kind": "address",
-    "lat": 34.0709741,
-    "lon": -118.4396451,
+    "lat": 34.0695409,
+    "lon": -118.4402402,
     "name": null,
     "radius_m": 0
    },
@@ -11987,8 +11987,8 @@
    "place": {
     "address": "622 ROSE AVENUE",
     "kind": "building",
-    "lat": 34.0177637,
-    "lon": -118.4370969,
+    "lat": 34.017202,
+    "lon": -118.4380945,
     "name": "VFC - IRMA COLEN ADMINISTRATION BUILDING",
     "radius_m": 0
    },
@@ -34973,10 +34973,10 @@
    "title": "Sensitive report"
   }
  ],
- "generated_at": "2026-11-27T16:41:02-08:00",
+ "generated_at": "2026-11-27T20:54:27-08:00",
  "schema": 1,
  "source": {
-  "fetched_at": "2026-11-28T00:39:42.169241+00:00",
+  "fetched_at": "2026-11-28T04:53:11.513646+00:00",
   "log_first_day": "2026-09-28",
   "log_last_day": "2026-11-27",
   "name": "UCLA PD Daily Crime and Fire Log",
